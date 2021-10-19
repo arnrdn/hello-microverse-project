@@ -1,13 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# # hello-microverse-project
+# Hello Microverse!
 
-> Module 1: Set up a "Hello Microverse" project
+> "Hello Microverse!" is an easy HTML&CSS project where the main goal is to show my knowledge of Git and GitHub.
 
-Additional description about the project and its features.
+<img src="app_screenshot.jpg">
+
 
 ## Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
+## Authors
+
+👤 **Author**
+
+- GitHub: [@rdnrn]
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
